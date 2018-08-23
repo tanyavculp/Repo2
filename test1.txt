@@ -1,8 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is B4D8-0EEC
-
- Directory of C:\Users\TCulp\Desktop\MyProjecto
-
-08/23/2018  02:49 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               0 Dir(s)     838,709,248 bytes free
+change 1
